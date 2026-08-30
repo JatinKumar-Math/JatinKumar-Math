@@ -1,101 +1,127 @@
-Jatin Kumar
-<div align="center">
-Mathematics Student • Computational Thinker • Mathematical Modeling Enthusiast
-</div>
-About Me
-
-I am a Mathematics student interested in understanding complex problems through mathematical reasoning, computation, and first-principles thinking.
-
-My interests lie at the intersection of mathematics and computing, with a focus on turning mathematical ideas into algorithms, computational experiments, simulations, and visualizations.
-
-My work revolves around:
-
-Mathematical Modeling
-Numerical Methods
-Computational Mathematics
-Scientific Computing
-Algorithms & Problem Solving
-Mathematical Visualization
-Differential Equations
-Computational Experiments
-
-I use programming as a tool for exploring mathematical structures, solving computational problems, visualizing abstract concepts, and developing intuition through experimentation.
-
-Currently Exploring
-Numerical methods and computational mathematics
-Differential equations and numerical solutions
-Numerical linear algebra
-Mathematical modeling and simulation
-Mathematical visualization with Python
-Algorithms and computational problem solving
-Computational approaches to calculus and analysis
-Exploring the connection between mathematics and computing
-Tech Stack
-Operating Systems
-<p align="left"> <img src="https://skillicons.dev/icons?i=windows,apple,debian,ubuntu,linux" /> </p>
-Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,bash" /> </p>
-Development Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github,latex" /> </p>
-Mathematics & Scientific Computing
-NumPy
-SciPy
-SymPy
-Matplotlib
-Jupyter Notebook
-LaTeX
-Pandas
-Git & GitHub
-Mathematical Interests
-Mathematical Modeling
-Numerical Analysis
-Differential Equations
-Linear Algebra
-Calculus
-Real Analysis
-Dynamical Systems
-Optimization
-Probability & Statistics
-Computational Mathematics
-Scientific Computing
-Algorithms
-
-Computational Philosophy
-
-Mathematics provides the structure.
-Computation provides the experiment.
-
-I am interested in using computation not simply as a programming exercise, but as a way to explore, test, visualize, and develop intuition about mathematical ideas.
-
-My goal is to build a strong connection between:
-
-Mathematical theory
-Computational methods
-Algorithmic thinking
-Numerical experimentation
-Visualization
-Clear scientific communication
-
-I believe programming can serve as a laboratory for mathematics — allowing abstract ideas to become objects that can be computed, visualized, tested, and explored.
+# Jatin Kumar
 
 <div align="center">
 
+### Mathematics Student • Computing Enthusiast • Mathematical & Scientific Computing
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FA9F5&center=true&vCenter=true&width=700&lines=Mathematics+%26+Computing;Mathematical+Modeling;Scientific+Computing;Numerical+Methods;Programming+%26+Problem+Solving" alt="Typing SVG" />
+
 </div>
-GitHub Statistics
-<p align="center"> <a href="https://github.com/AdityaKumarPhy"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaKumarPhy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaKumarPhy&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
-Areas of Exploration
+
+---
+
+## About Me
+
+<table>
+<tr>
+<td width="65%">
+
+I am a *mathematics and computing student* interested in understanding mathematical structures, computational methods, and problem-solving through mathematical reasoning and programming.
+
+My interests revolve around:
+
+- Mathematics
+- Mathematical Modeling
+- Computational Mathematics
+- Numerical Methods
+- Scientific Computing
+- Algorithms & Problem Solving
+- Data Analysis
+- Programming
+
+I use programming as a tool to explore mathematical ideas, solve computational problems, visualize mathematical concepts, and develop practical solutions to complex problems.
+
+</td>
+
+<td width="35%">
+
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Focus
+
+- Mathematical problem solving
+- Numerical methods and computational mathematics
+- Programming with Python and C++
+- Mathematical visualization
+- Scientific and numerical computing
+- Exploring the connection between mathematics and computer science
+
+---
+
+## Tech Stack
+
+### Operating Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows" />
+</p>
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,php,js,cpp" />
+</p>
+
+### Scientific & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,latex" />
+</p>
+
+### Scientific & Mathematical Tools
+- Anaconda
+- NumPy
+- Wolfram Mathematica
+
+---
+
+## Mathematical & Computing Philosophy
+
+> Mathematics provides the language for understanding patterns, structures, and relationships — while computing provides the tools to explore and apply them.
+
+I aim to build a strong connection between:
+- Mathematical thinking
+- Computational problem solving
+- Programming
+- Numerical methods
+- Scientific visualization
+- Practical applications
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/JatinKumar-Math/JatinKumar-Math/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## GitHub Statistics
+
+<p align="center">
+<a href="https://github.com/JatinKumar-Math">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JatinKumar-Math&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JatinKumar-Math&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+## Selected Areas of Interest
+
+```text
 Mathematics
-Computational Mathematics
-Numerical Analysis
 Mathematical Modeling
+Computational Mathematics
+Numerical Methods
 Scientific Computing
 Algorithms
-Numerical Simulation
+Programming
+Data Analysis
 Mathematical Visualization
-Differential Equations
-Dynamical Systems
-Optimization
-
-<div align="center">
-Mathematics → Algorithms → Computation → Visualization
-</div>
+Problem Solving
