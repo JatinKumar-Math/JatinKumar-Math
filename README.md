@@ -97,9 +97,13 @@ I aim to build a strong connection between:
 
 <div align="center">
 
-![snake gif](https://github.com/JatinKumar-Math/JatinKumar-Math/blob/output/github-contribution-grid-snake-dark.svg)
+<img
+  src="https://github.com/JatinKumar-Math/JatinKumar-Math/blob/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
+
 
 ## GitHub Statistics
 
